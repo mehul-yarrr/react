@@ -6,7 +6,7 @@ import about from './components/about';
 function App() {
   return (
     <>
-      <Navbar title="TextTutiles" AboutUs="AboutUs" />
+      <Navbar title="NewText" AboutUs="AboutUs" />
       <div className="container"></div>
       <TextForm heading="Heading of Text Area" />
       
